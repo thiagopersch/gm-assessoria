@@ -1,0 +1,13 @@
+.p-j {
+    text-align: justify;
+}
+
+.p-i {
+    font-style: italic;
+}
+
+#logo {
+    /* font-family: 'Bevan', cursive; */
+    font-family: 'Suez One', serif;
+    font-size: 40pt;
+}
